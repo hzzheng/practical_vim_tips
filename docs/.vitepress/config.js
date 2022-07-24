@@ -16,6 +16,10 @@ export default {
             text: 'tip 001',
             link: '/tip_001',
           },
+          {
+            text: 'tip 002',
+            link: '/tip_002',
+          },
         ],
       },
     ],
