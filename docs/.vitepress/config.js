@@ -32,6 +32,20 @@ export default {
             text: 'tip 005',
             link: '/tip_005',
           },
+          {
+            text: 'tip 006',
+            link: '/tip_006',
+          },
+        ],
+      },
+      {
+        text: 'Chapter 2',
+        collapsible: true,
+        items: [
+          {
+            text: 'tip 007',
+            link: '/tip_007',
+          },
         ],
       },
     ],
