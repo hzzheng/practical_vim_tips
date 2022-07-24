@@ -20,6 +20,14 @@ export default {
             text: 'tip 002',
             link: '/tip_002',
           },
+          {
+            text: 'tip 003',
+            link: '/tip_003',
+          },
+          {
+            text: 'tip 004',
+            link: '/tip_004',
+          },
         ],
       },
     ],
