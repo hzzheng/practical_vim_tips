@@ -56,7 +56,11 @@ export default {
           },
           {
             text: 'tip 0010',
-            link: '/tip_0010',
+            link: '/tip_010',
+          },
+          {
+            text: 'tip 0011',
+            link: '/tip_011',
           },
         ],
       },
