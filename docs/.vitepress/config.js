@@ -52,6 +52,20 @@ const chapter_02 = {
       text: 'tip 0011',
       link: '/tip_011',
     },
+    {
+      text: 'tip 0012',
+      link: '/tip_012',
+    },
+  ],
+}
+const chapter_03 = {
+  text: 'Chapter 3',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 0013',
+      link: '/tip_013',
+    },
   ],
 }
 export default {
@@ -63,6 +77,6 @@ export default {
         link: 'https://book.douban.com/subject/25869486/',
       },
     ],
-    sidebar: [chapter_01, chapter_02],
+    sidebar: [chapter_01, chapter_02, chapter_03],
   },
 }
