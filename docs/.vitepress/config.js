@@ -1,5 +1,5 @@
 const chapter_01 = {
-  text: 'Chapter 1',
+  text: '1. The Vim Way',
   collapsible: true,
   items: [
     {
@@ -29,7 +29,7 @@ const chapter_01 = {
   ],
 }
 const chapter_02 = {
-  text: 'Chapter 2',
+  text: '2. Normal Mode',
   collapsible: true,
   items: [
     {
@@ -59,7 +59,7 @@ const chapter_02 = {
   ],
 }
 const chapter_03 = {
-  text: 'Chapter 3',
+  text: '3. Insert Mode',
   collapsible: true,
   items: [
     {
@@ -93,7 +93,7 @@ const chapter_03 = {
   ],
 }
 const chapter_04 = {
-  text: 'Chapter 4',
+  text: '4. Visual Mode',
   collapsible: true,
   items: [
     {
