@@ -45,15 +45,15 @@ const chapter_02 = {
       link: '/tip_009',
     },
     {
-      text: 'tip 0010',
+      text: 'tip 010',
       link: '/tip_010',
     },
     {
-      text: 'tip 0011',
+      text: 'tip 011',
       link: '/tip_011',
     },
     {
-      text: 'tip 0012',
+      text: 'tip 012',
       link: '/tip_012',
     },
   ],
@@ -63,31 +63,31 @@ const chapter_03 = {
   collapsible: true,
   items: [
     {
-      text: 'tip 0013',
+      text: 'tip 013',
       link: '/tip_013',
     },
     {
-      text: 'tip 0014',
+      text: 'tip 014',
       link: '/tip_014',
     },
     {
-      text: 'tip 0015',
+      text: 'tip 015',
       link: '/tip_015',
     },
     {
-      text: 'tip 0016',
+      text: 'tip 016',
       link: '/tip_016',
     },
     {
-      text: 'tip 0017',
+      text: 'tip 017',
       link: '/tip_017',
     },
     {
-      text: 'tip 0018',
+      text: 'tip 018',
       link: '/tip_018',
     },
     {
-      text: 'tip 0019',
+      text: 'tip 019',
       link: '/tip_019',
     },
   ],
@@ -97,7 +97,7 @@ const chapter_04 = {
   collapsible: true,
   items: [
     {
-      text: 'tip 0020',
+      text: 'tip 020',
       link: '/tip_020',
     },
   ],
