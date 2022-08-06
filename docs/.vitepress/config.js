@@ -70,6 +70,36 @@ const chapter_03 = {
       text: 'tip 0014',
       link: '/tip_014',
     },
+    {
+      text: 'tip 0015',
+      link: '/tip_015',
+    },
+    {
+      text: 'tip 0016',
+      link: '/tip_016',
+    },
+    {
+      text: 'tip 0017',
+      link: '/tip_017',
+    },
+    {
+      text: 'tip 0018',
+      link: '/tip_018',
+    },
+    {
+      text: 'tip 0019',
+      link: '/tip_019',
+    },
+  ],
+}
+const chapter_04 = {
+  text: 'Chapter 4',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 0020',
+      link: '/tip_020',
+    },
   ],
 }
 export default {
@@ -81,6 +111,6 @@ export default {
         link: 'https://book.douban.com/subject/25869486/',
       },
     ],
-    sidebar: [chapter_01, chapter_02, chapter_03],
+    sidebar: [chapter_01, chapter_02, chapter_03, chapter_04],
   },
 }

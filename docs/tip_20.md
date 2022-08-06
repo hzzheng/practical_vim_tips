@@ -1,0 +1,21 @@
+# Tip 020
+
+##
+
+1. tip:
+
+> Replace mode is identical to Insert mode, except that it overwrites existing text in the document. We can use `R` command to enter Replace mode.
+
+2. snippet:
+
+```text
+Typing Insert mode extends the line,But in Replace mode the line length doesn't change.
+```
+
+type `f.`, then type `R,b<Esc>`.
+
+3. more:
+
+Vim has a second variant of Replace mode. Virtual Replce mode is triggered with `gR` and treats the tab character as though it consisted of spaces.
+
+Vim also provides a single-shot version of Replace mode and Virtual Replace mode, `r{char}` and `gr{cahr}`.
