@@ -126,6 +126,16 @@ const chapter_04 = {
     },
   ],
 }
+const chapter_05 = {
+  text: '5. Command-Line Mode',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 027',
+      link: '/tip_027',
+    },
+  ],
+}
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
@@ -135,6 +145,6 @@ export default {
         link: 'https://book.douban.com/subject/25869486/',
       },
     ],
-    sidebar: [chapter_01, chapter_02, chapter_03, chapter_04],
+    sidebar: [chapter_01, chapter_02, chapter_03, chapter_04, chapter_05],
   },
 }
