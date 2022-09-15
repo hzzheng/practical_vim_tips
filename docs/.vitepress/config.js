@@ -27,7 +27,7 @@ const chapter_01 = {
       link: '/tip_006',
     },
   ],
-};
+}
 const chapter_02 = {
   text: '2. Normal Mode',
   collapsible: true,
@@ -57,7 +57,7 @@ const chapter_02 = {
       link: '/tip_012',
     },
   ],
-};
+}
 const chapter_03 = {
   text: '3. Insert Mode',
   collapsible: true,
@@ -91,7 +91,7 @@ const chapter_03 = {
       link: '/tip_019',
     },
   ],
-};
+}
 const chapter_04 = {
   text: '4. Visual Mode',
   collapsible: true,
@@ -125,7 +125,7 @@ const chapter_04 = {
       link: '/tip_026',
     },
   ],
-};
+}
 const chapter_05 = {
   text: '5. Command-Line Mode',
   collapsible: true,
@@ -142,8 +142,12 @@ const chapter_05 = {
       text: 'tip 029',
       link: '/tip_029',
     },
+    {
+      text: 'tip 030',
+      link: '/tip_030',
+    },
   ],
-};
+}
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
@@ -155,4 +159,4 @@ export default {
     ],
     sidebar: [chapter_01, chapter_02, chapter_03, chapter_04, chapter_05],
   },
-};
+}
