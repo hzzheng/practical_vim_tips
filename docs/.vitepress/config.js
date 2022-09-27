@@ -168,6 +168,17 @@ const chapter_05 = {
     },
   ],
 }
+
+const chapter_06 = {
+  text: '6. Manage Multiple Files',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 036',
+      link: '/tip_036',
+    },
+  ],
+}
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
@@ -177,6 +188,13 @@ export default {
         link: 'https://book.douban.com/subject/25869486/',
       },
     ],
-    sidebar: [chapter_01, chapter_02, chapter_03, chapter_04, chapter_05],
+    sidebar: [
+      chapter_01,
+      chapter_02,
+      chapter_03,
+      chapter_04,
+      chapter_05,
+      chapter_06,
+    ],
   },
 }
