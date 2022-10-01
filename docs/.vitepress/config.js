@@ -185,6 +185,10 @@ const chapter_06 = {
       text: 'tip 038',
       link: '/tip_038',
     },
+    {
+      text: 'tip 039',
+      link: '/tip_039',
+    },
   ],
 }
 export default {
