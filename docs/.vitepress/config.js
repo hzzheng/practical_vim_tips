@@ -195,6 +195,18 @@ const chapter_06 = {
     },
   ],
 }
+
+const chapter_07 = {
+  text: '7. Open files and Save Them to Disk',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 041',
+      link: '/tip_041',
+    },
+  ],
+}
+
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
@@ -211,6 +223,7 @@ export default {
       chapter_04,
       chapter_05,
       chapter_06,
+      chapter_07,
     ],
   },
 }
