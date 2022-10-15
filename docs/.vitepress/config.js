@@ -208,6 +208,18 @@ const chapter_07 = {
       text: 'tip 042',
       link: '/tip_042',
     },
+    {
+      text: 'tip 043',
+      link: '/tip_043',
+    },
+    {
+      text: 'tip 044',
+      link: '/tip_044',
+    },
+    {
+      text: 'tip 045',
+      link: '/tip_045',
+    },
   ],
 }
 
