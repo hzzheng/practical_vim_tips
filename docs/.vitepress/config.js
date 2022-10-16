@@ -223,6 +223,16 @@ const chapter_07 = {
   ],
 }
 
+const chapter_08 = {
+  text: '8. Navigate Inside Files with Motions',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 046',
+      link: '/tip_046',
+    },
+  ],
+}
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
@@ -240,6 +250,7 @@ export default {
       chapter_05,
       chapter_06,
       chapter_07,
+      chapter_08,
     ],
   },
 }
