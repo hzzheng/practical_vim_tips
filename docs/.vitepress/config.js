@@ -259,8 +259,28 @@ const chapter_08 = {
       text: 'tip 053',
       link: '/tip_053',
     },
+    {
+      text: 'tip 054',
+      link: '/tip_054',
+    },
   ],
 }
+
+const chapter_09 = {
+  text: '9. Navigate Between Files with Jumps',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 055',
+      link: '/tip_055',
+    },
+    {
+      text: 'tip 056',
+      link: '/tip_056',
+    }
+  ],
+}
+
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
