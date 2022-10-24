@@ -289,6 +289,16 @@ const chapter_09 = {
   ],
 }
 
+const chapter_10 = {
+  text: '10. Copy and Paste',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 059',
+      link: '/tip_059'
+    }
+  ],
+}
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
@@ -307,6 +317,8 @@ export default {
       chapter_06,
       chapter_07,
       chapter_08,
+      chapter_09,
+      chapter_10,
     ],
   },
 }
