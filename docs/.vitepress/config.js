@@ -296,9 +296,26 @@ const chapter_10 = {
     {
       text: 'tip 059',
       link: '/tip_059'
-    }
+    },
+    {
+      text: 'tip 060',
+      link: '/tip_060'
+    },
+    {
+      text: 'tip 061',
+      link: '/tip_061'
+    },
+    {
+      text: 'tip 062',
+      link: '/tip_062'
+    },
+    {
+      text: 'tip 063',
+      link: '/tip_063'
+    },
   ],
 }
+
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
