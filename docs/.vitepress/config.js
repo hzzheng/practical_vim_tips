@@ -316,6 +316,17 @@ const chapter_10 = {
   ],
 }
 
+const chapter_11 = {
+  text: '11. Macros',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 064',
+      link: '/tip_064'
+    },
+  ],
+}
+
 export default {
   title: 'Practical Vim Tips',
   themeConfig: {
@@ -336,6 +347,7 @@ export default {
       chapter_08,
       chapter_09,
       chapter_10,
+      chapter_11,
     ],
   },
 }
