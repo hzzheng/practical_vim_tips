@@ -324,6 +324,10 @@ const chapter_11 = {
       text: 'tip 064',
       link: '/tip_064'
     },
+    {
+      text: 'tip 065',
+      link: '/tip_065'
+    },
   ],
 }
 
