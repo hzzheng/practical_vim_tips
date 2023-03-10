@@ -295,23 +295,23 @@ const chapter_10 = {
   items: [
     {
       text: 'tip 059',
-      link: '/tip_059'
+      link: '/tip_059',
     },
     {
       text: 'tip 060',
-      link: '/tip_060'
+      link: '/tip_060',
     },
     {
       text: 'tip 061',
-      link: '/tip_061'
+      link: '/tip_061',
     },
     {
       text: 'tip 062',
-      link: '/tip_062'
+      link: '/tip_062',
     },
     {
       text: 'tip 063',
-      link: '/tip_063'
+      link: '/tip_063',
     },
   ],
 }
@@ -322,35 +322,46 @@ const chapter_11 = {
   items: [
     {
       text: 'tip 064',
-      link: '/tip_064'
+      link: '/tip_064',
     },
     {
       text: 'tip 065',
-      link: '/tip_065'
+      link: '/tip_065',
     },
     {
       text: 'tip 066',
-      link: '/tip_066'
+      link: '/tip_066',
     },
     {
       text: 'tip 067',
-      link: '/tip_067'
+      link: '/tip_067',
     },
     {
       text: 'tip 068',
-      link: '/tip_068'
+      link: '/tip_068',
     },
     {
       text: 'tip 069',
-      link: '/tip_069'
+      link: '/tip_069',
     },
     {
       text: 'tip 070',
-      link: '/tip_070'
+      link: '/tip_070',
     },
     {
       text: 'tip 071',
-      link: '/tip_071'
+      link: '/tip_071',
+    },
+  ],
+}
+
+const chapter_12 = {
+  text: '12. Matching Patterns and Literals',
+  collapsible: true,
+  items: [
+    {
+      text: 'tip 072',
+      link: '/tip_072',
     },
   ],
 }
@@ -376,6 +387,7 @@ export default {
       chapter_09,
       chapter_10,
       chapter_11,
+      chapter_12,
     ],
   },
 }
